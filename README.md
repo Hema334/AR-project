@@ -22,8 +22,7 @@
 
 **Screenshots**
 
- | ![](https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_home.jpeg) |![](https://github.com/Sachibhola/App-Templates/blob/master/Resources/DecoratAR.jpeg) | 
- ![](https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_1.jpeg) | 
+ | ![](https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_home.jpeg)|![](https://github.com/Sachibhola/App-Templates/blob/master/Resources/DecoratAR.jpeg)|![](https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_1.jpeg) | 
 | :-------------:  | :-------------:  | :-------------:  |
 |    Home Page - Select Furniture     |   Select Flat Surface     |   View Furniture     |
 
