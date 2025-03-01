@@ -15,7 +15,7 @@
 
  ## <div align ="center" >Application Preview</div> 
 
-<div align ="center"><img align="center" width="300" src="https://github.com/Bhavani/App-Templates/blob/master/Resources/DecoratAR_vid.gif"/></div>
+<div align ="center"><img align="center" width="300" src="https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_vid.gif"/></div>
 <hr>
 
 ## Demo
