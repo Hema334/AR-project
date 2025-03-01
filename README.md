@@ -1,5 +1,5 @@
 
-# <div align="center"><img src="https://github.com/Sachinbhola/DecoratAR-Android-app/blob/master/app/src/main/res/raw/logo3.jpeg" alt="icon" width=50> DecoratAR </div>
+# <div align="center"><img src="https://github.com/Bhavani/DecoratAR-Android-app/blob/master/app/src/main/res/raw/logo3.jpeg" alt="icon" width=50> DecoratAR </div>
 
 <div align="center"> Visualize your favorite furniture at your home and find out the best match for your interiors with the superpower of Augmented Reality</div>
 
@@ -15,14 +15,14 @@
 
  ## <div align ="center" >Application Preview</div> 
 
-<div align ="center"><img align="center" width="300" src="https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_vid.gif"/></div>
+<div align ="center"><img align="center" width="300" src="https://github.com/Bhavani/App-Templates/blob/master/Resources/DecoratAR_vid.gif"/></div>
 <hr>
 
 ## Demo
 
 **Screenshots**
 
-| ![](https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_home.jpeg) |![](https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR.jpeg) | ![](https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_1.jpeg) | 
+ | ![](https://github.com/Bhavani/App-Templates/blob/master/Resources/DecoratAR_home.jpeg) |![](https://github.com/Bhavani/App-Templates/blob/master/Resources/DecoratAR.jpeg) | ![](https://github.com/Bhavani/App-Templates/blob/master/Resources/DecoratAR_1.jpeg) | 
 | :-------------:  | :-------------:  | :-------------:  |
 |    Home Page - Select Furniture     |   Select Flat Surface     |   View Furniture     |
 
